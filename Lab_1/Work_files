@@ -1,0 +1,29 @@
+mkdir Work
+cd Work
+mkdir "Лабораторная работа №1!" "ФИО"
+chmod -R 772 "Лабораторная работа №1!"
+chmod -R 700 "ФИО"
+cd "Лабораторная работа №1!"
+touch "Text @1" "Text \$2" "Text #3"
+cat > "Text @1"
+Птица говорун отличается умом и сообразительностью.
+Отличается умом, отличается сообразительностью...
+^C
+ cat "Text @1" > "Text \$2"
+ mv "Text \$2" "лабораторная работа №1!"
+ co "Text @1" ФИО
+ gzip "Text @1" "Text #3"
+ tar -cf MyArchive "Text @1.gz" "Text #3.gz"
+ gzip -d "Text @1.gz" "Text #3.gz"
+ head -n 1 "Text @1" > "Text #3"
+ cat >> "Text #3"
+ «Будь осторожен! Преступник вооружен!
+ cd ../ФИО
+ touch Result_one
+ tac "Text @1" > Result_one |rev
+ mv Result_one Result_two
+ cd ../"Лабораторная работа №1!"
+ touch Result_3
+ cat ../ФИО/"Text @1" > Result_3
+ uname -a  >> Result_3
+ date >> Result_3
