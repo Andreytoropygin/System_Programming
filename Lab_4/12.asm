@@ -6,8 +6,8 @@ include 'file.asm'
 
 section '.bss' writable
     input: times 10 db ?
-    positive db "True"
-    negative db "False"
+    positive db "True", 0
+    negative db "False", 0
 
 section '.text' executable
 _start:
@@ -32,14 +32,14 @@ _start:
         pop rax
         cmp rax, rdx
         jnl @f
-        load_fixed_print negative, 5
+        mov rsi, negative
         jmp .finish
         @@:
         dec rcx
         cmp rcx, 0
         jne .cmp_loop
-        load_fixed_print positive, 4
+        mov rsi, positive
     .finish:
-        call print_str_fixed
+        call print_str
         call new_line
         call exit

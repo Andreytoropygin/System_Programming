@@ -128,23 +128,6 @@ print_str:
     pop rax
     ret
 
-;Function printing of string with fixed length
-;input rsi - place of memory of begin string, rdx - length
-print_str_fixed:
-    push rax
-    push rdi
-    push rdx
-    push rcx
-    push rbx
-    mov rax, 1
-    mov rdi, 1
-    syscall
-    pop rbx
-    pop rcx	
-    pop rdx
-    pop rdi
-    pop rax
-    ret
 ;Function printing of char
 ;input rax - char
 print_char:
@@ -226,13 +209,6 @@ read:
     pop rax
     ret
 
-;macro prepares to use 'print_str_fixed' function
-;op1 - place of memory of begin string, op2 - length
-macro load_fixed_print op1, op2
-{
-    mov rsi, op1
-    mov rdx, op2
-}
 
 ;multiplication for 2 operands
 macro mul2 op1, op2
