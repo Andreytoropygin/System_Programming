@@ -1,0 +1,292 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.0 166856 11980 ?        Ss   окт18   0:03 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    окт18   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    окт18   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-rcu_g]
+root           5  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-rcu_p]
+root           6  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-slub_]
+root           7  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-netns]
+root           9  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/0:0H-events_highpri]
+root          12  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-mm_pe]
+root          13  0.0  0.0      0     0 ?        I    окт18   0:00 [rcu_tasks_kthread]
+root          14  0.0  0.0      0     0 ?        I    окт18   0:00 [rcu_tasks_rude_kthread]
+root          15  0.0  0.0      0     0 ?        I    окт18   0:00 [rcu_tasks_trace_kthread]
+root          16  0.0  0.0      0     0 ?        S    окт18   0:00 [ksoftirqd/0]
+root          17  0.0  0.0      0     0 ?        I    окт18   0:07 [rcu_preempt]
+root          18  0.0  0.0      0     0 ?        S    окт18   0:00 [migration/0]
+root          19  0.0  0.0      0     0 ?        S    окт18   0:00 [idle_inject/0]
+root          20  0.0  0.0      0     0 ?        S    окт18   0:00 [cpuhp/0]
+root          21  0.0  0.0      0     0 ?        S    окт18   0:00 [cpuhp/1]
+root          22  0.0  0.0      0     0 ?        S    окт18   0:00 [idle_inject/1]
+root          23  0.0  0.0      0     0 ?        S    окт18   0:00 [migration/1]
+root          24  0.0  0.0      0     0 ?        S    окт18   0:00 [ksoftirqd/1]
+root          26  0.0  0.0      0     0 ?        I<   окт18   0:01 [kworker/1:0H-events_highpri]
+root          27  0.0  0.0      0     0 ?        S    окт18   0:00 [cpuhp/2]
+root          28  0.0  0.0      0     0 ?        S    окт18   0:00 [idle_inject/2]
+root          29  0.0  0.0      0     0 ?        S    окт18   0:00 [migration/2]
+root          30  0.0  0.0      0     0 ?        S    окт18   0:00 [ksoftirqd/2]
+root          32  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/2:0H-events_highpri]
+root          33  0.0  0.0      0     0 ?        S    окт18   0:00 [cpuhp/3]
+root          34  0.0  0.0      0     0 ?        S    окт18   0:00 [idle_inject/3]
+root          35  0.0  0.0      0     0 ?        S    окт18   0:00 [migration/3]
+root          36  0.0  0.0      0     0 ?        S    окт18   0:00 [ksoftirqd/3]
+root          38  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/3:0H-events_highpri]
+root          39  0.0  0.0      0     0 ?        S    окт18   0:00 [cpuhp/4]
+root          40  0.0  0.0      0     0 ?        S    окт18   0:00 [idle_inject/4]
+root          41  0.0  0.0      0     0 ?        S    окт18   0:00 [migration/4]
+root          42  0.0  0.0      0     0 ?        S    окт18   0:06 [ksoftirqd/4]
+root          44  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/4:0H-events_highpri]
+root          45  0.0  0.0      0     0 ?        S    окт18   0:00 [cpuhp/5]
+root          46  0.0  0.0      0     0 ?        S    окт18   0:00 [idle_inject/5]
+root          47  0.0  0.0      0     0 ?        S    окт18   0:00 [migration/5]
+root          48  0.0  0.0      0     0 ?        S    окт18   0:00 [ksoftirqd/5]
+root          50  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/5:0H-events_highpri]
+root          51  0.0  0.0      0     0 ?        S    окт18   0:00 [cpuhp/6]
+root          52  0.0  0.0      0     0 ?        S    окт18   0:00 [idle_inject/6]
+root          53  0.0  0.0      0     0 ?        S    окт18   0:00 [migration/6]
+root          54  0.1  0.0      0     0 ?        S    окт18   1:38 [ksoftirqd/6]
+root          56  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/6:0H-events_highpri]
+root          57  0.0  0.0      0     0 ?        S    окт18   0:00 [cpuhp/7]
+root          58  0.0  0.0      0     0 ?        S    окт18   0:00 [idle_inject/7]
+root          59  0.0  0.0      0     0 ?        S    окт18   0:00 [migration/7]
+root          60  0.0  0.0      0     0 ?        S    окт18   0:00 [ksoftirqd/7]
+root          62  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/7:0H-events_highpri]
+root          63  0.0  0.0      0     0 ?        S    окт18   0:00 [kdevtmpfs]
+root          64  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-inet_]
+root          66  0.0  0.0      0     0 ?        S    окт18   0:00 [kauditd]
+root          67  0.0  0.0      0     0 ?        S    окт18   0:00 [khungtaskd]
+root          68  0.0  0.0      0     0 ?        S    окт18   0:00 [oom_reaper]
+root          70  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-write]
+root          71  0.0  0.0      0     0 ?        S    окт18   0:00 [kcompactd0]
+root          72  0.0  0.0      0     0 ?        SN   окт18   0:00 [ksmd]
+root          74  0.0  0.0      0     0 ?        SN   окт18   0:00 [khugepaged]
+root          75  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-kinte]
+root          76  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-kbloc]
+root          77  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-blkcg]
+root          78  0.0  0.0      0     0 ?        S    окт18   0:18 [irq/9-acpi]
+root          80  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-tpm_d]
+root          81  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-ata_s]
+root          82  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-md]
+root          83  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-md_bi]
+root          84  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-edac-]
+root          85  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-devfr]
+root          86  0.0  0.0      0     0 ?        S    окт18   0:00 [watchdogd]
+root          88  0.0  0.0      0     0 ?        I<   окт18   0:02 [kworker/0:1H-events_highpri]
+root          89  0.0  0.0      0     0 ?        S    окт18   0:00 [kswapd0]
+root          90  0.0  0.0      0     0 ?        S    окт18   0:00 [ecryptfs-kthread]
+root          91  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-kthro]
+root          92  0.0  0.0      0     0 ?        S    окт18   0:00 [irq/123-pciehp]
+root          93  0.0  0.0      0     0 ?        S    окт18   0:00 [irq/126-pciehp]
+root          98  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-acpi_]
+root          99  0.0  0.0      0     0 ?        S    окт18   0:00 [hwrng]
+root         101  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-mld]
+root         102  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/2:1H-events_highpri]
+root         103  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-ipv6_]
+root         110  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-kstrp]
+root         126  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-charg]
+root         145  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/3:1H-acpi_thermal_pm]
+root         149  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/5:1H-events_highpri]
+root         163  0.0  0.0      0     0 ?        I<   окт18   0:03 [kworker/7:1H-events_highpri]
+root         164  0.0  0.0      0     0 ?        I<   окт18   0:01 [kworker/6:1H-events_highpri]
+root         165  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/4:1H-kblockd]
+root         166  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/1:1H]
+root         198  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-nvme-]
+root         200  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-nvme-]
+root         201  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-nvme-]
+root         202  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-nvme-]
+root         217  0.0  0.0      0     0 ?        S    окт18   0:44 [irq/170-SYNA3071:00]
+root         239  0.0  0.0      0     0 ?        S    окт18   0:01 [jbd2/nvme0n1p2-8]
+root         240  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-ext4-]
+root         280  0.0  0.5 154108 93196 ?        S<s  окт18   0:02 /lib/systemd/systemd-journald
+root         328  0.0  0.0  27052  7084 ?        Ss   окт18   0:01 /lib/systemd/systemd-udevd
+root         451  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-cfg80]
+root         452  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-nfc0_]
+root         453  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-nfc0_]
+root         454  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-nfc0_]
+root         458  0.0  0.0      0     0 ?        S    окт18   0:00 [irq/172-nxp-nci_i2c]
+root         461  0.0  0.0      0     0 ?        S    окт18   0:14 [irq/173-iwlwifi]
+root         535  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-crypt]
+root         538  0.0  0.0      0     0 ?        I<   окт18   0:00 [kworker/R-ttm]
+root         558  0.0  0.0      0     0 ?        S    окт18   0:00 [card1-crtc0]
+root         560  0.0  0.0      0     0 ?        S    окт18   0:00 [card1-crtc1]
+root         561  0.0  0.0      0     0 ?        S    окт18   0:00 [card1-crtc2]
+systemd+     593  0.0  0.0  14836  6868 ?        Ss   окт18   0:38 /lib/systemd/systemd-oomd
+systemd+     596  0.0  0.0  26060 14264 ?        Ss   окт18   0:09 /lib/systemd/systemd-resolved
+systemd+     597  0.0  0.0  89388  7448 ?        Ssl  окт18   0:00 /lib/systemd/systemd-timesyncd
+root         627  0.0  0.0 240808  8548 ?        Ssl  окт18   0:00 /usr/libexec/accounts-daemon
+root         628  0.0  0.0   2816  2104 ?        Ss   окт18   0:00 /usr/sbin/acpid
+avahi        630  0.0  0.0   7716  4208 ?        Ss   окт18   0:00 avahi-daemon: running [andrey-HP-EliteBook-840-G5.local]
+root         631  0.0  0.0  10636  5472 ?        Ss   окт18   0:00 /usr/lib/bluetooth/bluetoothd
+root         633  0.0  0.0   9504  2872 ?        Ss   окт18   0:00 /usr/sbin/cron -f -P
+message+     635  0.0  0.0  11192  6888 ?        Ss   окт18   0:07 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         636  0.0  0.1 336088 20160 ?        Ssl  окт18   0:07 /usr/sbin/NetworkManager --no-daemon
+root         647  0.0  0.0  82804  4088 ?        Ssl  окт18   0:03 /usr/sbin/irqbalance --foreground
+root         653  0.0  0.1  41148 21336 ?        Ss   окт18   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         658  0.0  0.0   7020   804 ?        Ss   окт18   0:00 etersafed
+root         666  0.0  0.0 236972 11108 ?        Ssl  окт18   0:03 /usr/libexec/polkitd --no-debug
+root         667  0.0  0.0 240572  8284 ?        Ssl  окт18   0:00 /usr/libexec/power-profiles-daemon
+syslog       668  0.0  0.0 222404  5816 ?        Ssl  окт18   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         672  0.0  0.2 1763916 32620 ?       Ssl  окт18   0:07 /usr/lib/snapd/snapd
+root         679  0.0  0.0 236660  6992 ?        Ssl  окт18   0:00 /usr/libexec/switcheroo-control
+root         682  0.0  0.0  48304  8112 ?        Ss   окт18   0:00 /lib/systemd/systemd-logind
+root         693  0.0  0.0 276200 10800 ?        Ssl  окт18   0:10 /usr/sbin/thermald --systemd --dbus-enable --adaptive
+root         696  0.0  0.0 393212 13508 ?        Ssl  окт18   0:00 /usr/libexec/udisks2/udisksd
+root         699  0.0  0.0  17820 11904 ?        Ss   окт18   0:02 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        712  0.0  0.0   7444  1460 ?        S    окт18   0:00 avahi-daemon: chroot helper
+root         732  0.0  0.0 318188 13604 ?        Ssl  окт18   0:00 /usr/sbin/ModemManager
+root         741  0.0  0.0 240644  8388 ?        Ssl  окт18   0:00 /usr/libexec/boltd
+root         742  0.0  0.0  72628 13504 ?        Ss   окт18   0:00 /usr/sbin/cupsd -l
+root         782  0.0  0.0 241548  9216 ?        Ssl  окт18   0:00 /usr/sbin/gdm3
+root         812  0.0  0.1 118160 23772 ?        Ssl  окт18   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         818  0.0  0.0 242876  9560 ?        Ssl  окт18   0:02 /usr/libexec/upowerd
+rtkit       1010  0.0  0.0 154004  3460 ?        SNsl окт18   0:00 /usr/libexec/rtkit-daemon
+geoclue     1126  0.0  0.1 913352 28500 ?        Ssl  окт18   0:11 /usr/libexec/geoclue
+root        1127  0.0  0.1 298652 20896 ?        Ssl  окт18   0:00 /usr/libexec/packagekitd
+colord      1289  0.0  0.0 245872 13816 ?        Ssl  окт18   0:00 /usr/libexec/colord
+root        1415  0.0  0.0 318420 11608 ?        Sl   окт18   0:00 gdm-session-worker [pam/gdm-password]
+root        1438  0.0  0.0 172636 11664 ?        Ssl  окт18   0:00 /usr/sbin/cups-browsed
+kernoops    1444  0.0  0.0  13092  2340 ?        Ss   окт18   0:00 /usr/sbin/kerneloops --test
+kernoops    1450  0.0  0.0  13092  2376 ?        Ss   окт18   0:00 /usr/sbin/kerneloops
+andrey      1461  0.0  0.0  18036 10920 ?        Ss   окт18   0:02 /lib/systemd/systemd --user
+andrey      1462  0.0  0.0 104604  5932 ?        S    окт18   0:00 (sd-pam)
+andrey      1468  0.0  0.0  39860  6808 ?        S<sl окт18   0:00 /usr/bin/pipewire
+andrey      1469  0.0  0.0  23612  6756 ?        Ssl  окт18   0:00 /usr/bin/pipewire-media-session
+andrey      1470  3.0  0.1 2285800 30628 ?       S<sl окт18  38:38 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+andrey      1479  0.0  0.0 241168  7928 ?        Sl   окт18   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+andrey      1492  0.0  0.0  10144  6296 ?        Ss   окт18   0:16 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+andrey      1493  0.0  0.0 537304  7940 ?        Ssl  окт18   0:00 /usr/libexec/xdg-document-portal
+andrey      1496  0.0  0.0 236556  6596 ?        Ssl  окт18   0:00 /usr/libexec/xdg-permission-store
+root        1503  0.0  0.0   2796  2000 ?        Ss   окт18   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+root        1525  0.0  0.0      0     0 ?        S<   окт18   0:00 [krfcommd]
+andrey      1528  0.0  0.0 162624  6348 tty2     Ssl+ окт18   0:00 /usr/libexec/gdm-wayland-session env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+andrey      1531  0.0  0.0 223268 16048 tty2     Sl+  окт18   0:00 /usr/libexec/gnome-session-binary --session=ubuntu
+andrey      1584  0.0  0.0  91920  5492 ?        Ssl  окт18   0:00 /usr/libexec/gnome-session-ctl --monitor
+andrey      1598  0.0  0.0 240916  8320 ?        Ssl  окт18   0:00 /usr/libexec/gvfsd
+andrey      1606  0.0  0.0 380896  6872 ?        Sl   окт18   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+andrey      1609  0.0  0.1 520500 18864 ?        Ssl  окт18   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+andrey      1630  0.0  0.0 309632  7860 ?        Sl   окт18   0:00 /usr/libexec/at-spi-bus-launcher --launch-immediately
+andrey      1638  2.4  2.3 5469936 384440 ?      Ssl  окт18  30:26 /usr/bin/gnome-shell
+andrey      1639  0.0  0.0   8432  4588 ?        S    окт18   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus
+andrey      1679  0.0  0.1 582848 18792 ?        Sl   окт18   0:00 /usr/libexec/gnome-shell-calendar-server
+andrey      1685  0.0  0.1 941724 26860 ?        Ssl  окт18   0:00 /usr/libexec/evolution-source-registry
+andrey      1692  0.0  0.2 582432 40740 ?        Sl   окт18   0:00 /usr/libexec/goa-daemon
+andrey      1693  0.0  0.0 157104  6152 ?        Ssl  окт18   0:00 /usr/libexec/dconf-service
+andrey      1696  0.0  0.1 1381744 32020 ?       Ssl  окт18   0:00 /usr/libexec/evolution-calendar-factory
+andrey      1700  0.0  0.0 316384 10880 ?        Ssl  окт18   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+andrey      1708  0.0  0.0 338824 15604 ?        Sl   окт18   0:00 /usr/libexec/goa-identity-service
+andrey      1719  0.0  0.0 236900  6956 ?        Ssl  окт18   0:00 /usr/libexec/gvfs-goa-volume-monitor
+andrey      1729  0.0  0.1 746584 29728 ?        Ssl  окт18   0:00 /usr/libexec/evolution-addressbook-factory
+andrey      1730  0.0  0.0 236696  6820 ?        Ssl  окт18   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+andrey      1735  0.0  0.0 315476  8480 ?        Ssl  окт18   0:01 /usr/libexec/gvfs-afc-volume-monitor
+andrey      1744  0.0  0.0 237788  7424 ?        Ssl  окт18   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+andrey      1756  0.0  0.0 315568  9912 ?        Sl   окт18   0:00 /usr/libexec/gvfsd-trash --spawner :1.15 /org/gtk/gvfs/exec_spaw/0
+andrey      1768  0.0  0.1 2874360 29256 ?       Sl   окт18   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+andrey      1770  0.0  0.0 162688  7700 ?        Sl   окт18   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+andrey      1785  0.0  0.0   2892  1756 ?        Ss   окт18   0:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+andrey      1786  0.0  0.0 310940  7404 ?        Ssl  окт18   0:00 /usr/libexec/gsd-a11y-settings
+andrey      1788  0.0  0.0 315896 12656 ?        Sl   окт18   0:06 /usr/bin/ibus-daemon --panel disable
+andrey      1790  0.0  0.1 611120 28300 ?        Ssl  окт18   0:00 /usr/libexec/gsd-color
+andrey      1791  0.0  0.1 449828 16912 ?        Ssl  окт18   0:00 /usr/libexec/gsd-datetime
+andrey      1793  0.0  0.0 312548  8548 ?        Ssl  окт18   0:01 /usr/libexec/gsd-housekeeping
+andrey      1794  0.0  0.1 415260 23456 ?        Ssl  окт18   0:00 /usr/libexec/gsd-keyboard
+andrey      1795  0.0  0.1 718132 28912 ?        Ssl  окт18   0:00 /usr/libexec/gsd-media-keys
+andrey      1798  0.0  0.1 716732 29980 ?        Ssl  окт18   0:00 /usr/libexec/gsd-power
+andrey      1800  0.0  0.0 250160 11504 ?        Ssl  окт18   0:00 /usr/libexec/gsd-print-notifications
+andrey      1805  0.0  0.0 458164  7168 ?        Ssl  окт18   0:00 /usr/libexec/gsd-rfkill
+andrey      1808  0.0  0.0 236596  6676 ?        Ssl  окт18   0:00 /usr/libexec/gsd-screensaver-proxy
+andrey      1812  0.0  0.0 466444 11432 ?        Ssl  окт18   0:01 /usr/libexec/gsd-sharing
+andrey      1817  0.0  0.0 312824  8916 ?        Ssl  окт18   0:00 /usr/libexec/gsd-smartcard
+andrey      1821  0.0  0.0 319856 10140 ?        Ssl  окт18   0:00 /usr/libexec/gsd-sound
+andrey      1828  0.0  0.1 415924 23976 ?        Ssl  окт18   0:00 /usr/libexec/gsd-wacom
+andrey      1841  0.0  0.0 232272  7632 ?        Sl   окт18   0:00 /usr/libexec/gsd-disk-utility-notify
+andrey      1872  0.0  0.4 824312 68544 ?        Sl   окт18   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+andrey      1891  0.0  0.0 163880  7704 ?        Sl   окт18   0:00 /usr/libexec/ibus-memconf
+andrey      1895  0.0  0.1 348748 30352 ?        Sl   окт18   0:03 /usr/libexec/ibus-extension-gtk3
+andrey      1915  0.0  0.0 237632  7964 ?        Sl   окт18   0:00 /usr/libexec/ibus-portal
+andrey      1942  0.0  0.0 342668 15352 ?        Sl   окт18   0:00 /usr/libexec/gsd-printer
+andrey      1962  0.0  0.0 164016  7800 ?        Sl   окт18   0:01 /usr/libexec/ibus-engine-simple
+andrey      1965  0.0  0.0  39128 12076 ?        Ss   окт18   0:00 /snap/snapd-desktop-integration/253/usr/bin/snapd-desktop-integration
+andrey      2017  0.0  0.1 429472 30696 ?        Sl   окт18   0:00 /snap/snapd-desktop-integration/253/usr/bin/snapd-desktop-integration
+andrey      2048  0.0  0.0 624236 15316 ?        Ssl  окт18   0:28 /usr/libexec/xdg-desktop-portal
+andrey      2052  0.0  0.2 646592 33580 ?        SNsl окт18   0:01 /usr/libexec/tracker-miner-fs-3
+andrey      2055  0.0  0.1 729784 30656 ?        Ssl  окт18   0:00 /usr/libexec/xdg-desktop-portal-gnome
+andrey      2076  0.0  0.1 2874352 28688 ?       Sl   окт18   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+andrey      2106  0.0  0.1 345444 27072 ?        Ssl  окт18   0:00 /usr/libexec/xdg-desktop-portal-gtk
+andrey      2137  0.0  0.0 163388  6908 ?        Ssl  окт18   0:00 /usr/libexec/gvfsd-metadata
+andrey      2189  0.1  0.6 946860 98152 ?        Sl   окт18   2:07 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.0N75V2 -listen 4 -listen 5 -displayfd 6 -initfd 7
+andrey      2209  0.0  0.5 1049856 82360 ?       Ssl  окт18   0:00 /usr/libexec/gsd-xsettings
+andrey      2240  0.0  0.1 195116 25904 ?        Sl   окт18   0:00 /usr/libexec/ibus-x11
+andrey      2723  1.3  3.6 4078276 589916 ?      Sl   окт18  16:59 /snap/firefox/5014/usr/lib/firefox/firefox
+andrey      2908  0.0  0.3 209884 53216 ?        Sl   окт18   0:00 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -parentBuildID 20240924195713 -prefsLen 32661 -prefMapSize 255944 -appDir /snap/firefox/5014/usr/lib/firefox/browser {99bcb0f4-1831-41df-a404-a715fa3f3b72} 2723 true 1 socket
+andrey      2923  0.0  0.7 2462060 123308 ?      Sl   окт18   0:13 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 32802 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {2a29bafe-ebf5-4d6e-8902-b9fb3a4da42a} 2723 true 2 tab
+andrey      2965  0.0  0.1 1682436 21104 ?       Sl   окт18   0:01 /usr/bin/snap userd
+andrey      3033  0.0  0.5 2443720 97260 ?       Sl   окт18   0:10 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 38763 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {ea8eb88c-ab63-4e67-8cf6-8980d61bce6a} 2723 true 3 tab
+andrey      3037  0.0  1.0 2533276 178276 ?      Sl   окт18   0:32 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34067 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {556caa3e-cdab-4195-b214-0f4b6f34286f} 2723 true 4 tab
+andrey      3240  0.0  0.3 346264 61856 ?        Sl   окт18   0:00 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -parentBuildID 20240924195713 -sandboxingKind 0 -prefsLen 38874 -prefMapSize 255944 -appDir /snap/firefox/5014/usr/lib/firefox/browser {4b2b4663-010b-451f-8cf8-065bda23dcb6} 2723 true 5 utility
+andrey      4120  0.0  0.8 649176 134324 ?       Sl   окт18   0:02 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -parentBuildID 20240924195713 -prefsLen 39104 -prefMapSize 255944 -appDir /snap/firefox/5014/usr/lib/firefox/browser {1c8b2cd6-baca-4ee4-9d4a-4c052f542210} 2723 true 25 rdd
+andrey      4160  0.0  0.0 118048  8104 ?        Ssl  окт18   0:00 /usr/bin/speech-dispatcher -s -t 0
+andrey      4173  0.0  0.0      0     0 ?        Z    окт18   0:00 [sd_espeak-ng-mb] <defunct>
+andrey      4176  0.0  0.0 105596  9284 ?        Sl   окт18   0:00 /usr/lib/speech-dispatcher-modules/sd_espeak-ng /etc/speech-dispatcher/modules/espeak-ng.conf
+andrey      4179  0.0  0.0 358220  6024 ?        Sl   окт18   0:02 /usr/lib/speech-dispatcher-modules/sd_dummy /etc/speech-dispatcher/modules/dummy.conf
+andrey      4535  0.0  0.9 2501644 159808 ?      Sl   окт18   0:17 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34408 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {e45394f4-7bcb-4150-ba5d-93816cbd306f} 2723 true 32 tab
+andrey      4635  0.0  0.6 2461252 109536 ?      Sl   окт18   1:07 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34408 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {11731f2d-257c-4f30-88bc-230af677f894} 2723 true 34 tab
+andrey      4981  0.1  2.0 11185308 326944 ?     Sl   окт18   1:50 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34408 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {7e852fe5-667a-4a8c-a916-f60edb329d13} 2723 true 39 tab
+andrey      4982  0.0  0.9 2493972 160804 ?      Sl   окт18   0:15 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34408 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {3850126e-6f9e-4c26-a632-3b64fe0335d9} 2723 true 40 tab
+andrey      5081  0.0  0.6 2430652 99084 ?       Sl   окт18   0:09 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34408 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {8671cf65-8611-458a-9b9f-778dd981d688} 2723 true 41 tab
+andrey      5599  0.0  1.2 2678172 206760 ?      Sl   окт18   0:23 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34409 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {a2343f9f-6196-4d86-9d3a-8b2f3287fea7} 2723 true 47 tab
+root        8557  0.0  0.0      0     0 ?        I    окт18   0:16 [kworker/6:2-i915-unordered]
+root        8726  0.0  0.0      0     0 ?        I    окт18   0:05 [kworker/7:0-events]
+andrey      9217  0.0  0.7 2460880 123944 ?      Sl   окт18   0:24 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34492 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {dd3113d4-3a95-477d-b1ca-52eb1ac66014} 2723 true 70 tab
+andrey      9252  0.0  1.0 2513668 176676 ?      Sl   окт18   0:24 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34492 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {41f11439-e6a5-4dad-ac10-a86c9fd112c3} 2723 true 71 tab
+andrey      9605  0.0  0.0 389188  9572 ?        Sl   окт18   0:00 /usr/libexec/gvfsd-network --spawner :1.15 /org/gtk/gvfs/exec_spaw/1
+andrey      9626  0.0  0.0 317092  9412 ?        Sl   окт18   0:00 /usr/libexec/gvfsd-dnssd --spawner :1.15 /org/gtk/gvfs/exec_spaw/3
+andrey     10133  0.0  1.8 2766796 299120 ?      Sl   окт18   0:49 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34492 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {1c13a3e4-646b-4c69-96e5-98d9c5b7e004} 2723 true 72 tab
+andrey     10172  0.0  0.5 2556196 91324 ?       Sl   окт18   0:06 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34492 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {0ac7e7af-ed40-4520-88f8-53e15a656854} 2723 true 73 tab
+root       10263  0.0  0.0      0     0 ?        I    окт18   0:08 [kworker/4:2-events]
+root       11266  0.0  0.0      0     0 ?        I    окт18   0:01 [kworker/0:8-events]
+andrey     11997  0.4  3.3 1747484 536920 ?      Sl   окт18   4:17 /home/andrey/Telegram/Telegram
+root       12217  0.0  0.0      0     0 ?        I<   окт18   0:14 [kworker/u17:1-rb_allocator]
+root       13256  0.0  0.0      0     0 ?        D<   окт18   0:23 [kworker/u17:2+i915_flip]
+root       15526  0.0  0.2  63104 40736 ?        S    окт18   0:00 python3 /usr/lib/software-properties/software-properties-dbus
+root       15732  0.0  0.0 240364  7848 ?        Ssl  окт18   0:00 /usr/libexec/ubuntu-advantage-desktop-daemon
+root       16170  0.0  0.0      0     0 ?        I    окт18   0:00 [kworker/4:1-events]
+root       18297  0.0  0.0      0     0 ?        I    окт18   0:00 [kworker/5:2-i915-unordered]
+root       18403  0.0  0.0      0     0 ?        I    окт18   0:23 [kworker/6:0-i915-unordered]
+root       18819  0.0  0.0      0     0 ?        I    окт18   0:00 [kworker/3:3-events]
+root       18839  0.0  0.0      0     0 ?        I    08:31   0:00 [kworker/2:0-events]
+root       18842  0.0  0.0      0     0 ?        I    08:31   0:00 [kworker/1:4-events_freezable]
+root       18948  0.0  0.2 394908 33764 ?        Ssl  08:31   0:01 /usr/libexec/fwupd/fwupd
+root       24198  0.0  0.0      0     0 ?        I<   09:03   0:09 [kworker/u17:0-i915_flip]
+root       26759  0.0  0.0      0     0 ?        I    09:19   0:00 [kworker/u16:2-events_power_efficient]
+root       27154  0.0  0.0      0     0 ?        I    09:22   0:00 [kworker/1:0-mm_percpu_wq]
+root       27182  0.0  0.0      0     0 ?        I    13:43   0:00 [kworker/0:4-events]
+root       27202  0.0  0.0      0     0 ?        I    13:43   0:00 [kworker/u16:36-i915]
+root       27208  0.0  0.0      0     0 ?        I    13:43   0:00 [kworker/u16:42-events_power_efficient]
+root       27219  0.0  0.0      0     0 ?        S    13:43   0:00 [irq/128-mei_me]
+andrey     27309  0.1  0.4 3197356 67880 ?       Sl   13:43   0:01 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:1920:1080:1:27:0:0:0:0
+andrey     27392  1.7  1.2 1189560844 202596 ?   SLl  13:43   0:17 /usr/share/code/code
+andrey     27396  0.0  0.2 33787416 46976 ?      S    13:43   0:00 /usr/share/code/code --type=zygote --no-zygote-sandbox
+andrey     27397  0.0  0.2 33787408 47104 ?      S    13:43   0:00 /usr/share/code/code --type=zygote
+andrey     27399  0.0  0.0 33787432 11436 ?      S    13:43   0:00 /usr/share/code/code --type=zygote
+andrey     27418  0.0  0.0 33601572 13100 ?      Sl   13:43   0:00 /usr/share/code/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --no-rate-limit --database=/home/andrey/.config/Code/Crashpad --url=appcenter://code?aid=fba07a4d-84bd-4fc8-a125-9640fc8ce171&uid=42f49db1-4895-404d-8d73-3f85661a3797&iid=42f49db1-4895-404d-8d73-3f85661a3797&sid=42f49db1-4895-404d-8d73-3f85661a3797 --annotation=_companyName=Microsoft --annotation=_productName=VSCode --annotation=_version=1.94.0 --annotation=lsb-release=Ubuntu 22.04.5 LTS --annotation=plat=Linux --annotation=prod=Electron --annotation=ver=30.5.1 --initial-client-fd=46 --shared-client-connection
+andrey     27434  1.3  0.8 34254220 142844 ?     Sl   13:43   0:14 /usr/share/code/code --type=gpu-process --crashpad-handler-pid=27418 --enable-crash-reporter=9767cb2f-1850-4c17-a233-36dcebbfbcc6,no_channel --user-data-dir=/home/andrey/.config/Code --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=3,i,4124435708670414126,11996236723258306434,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+andrey     27437  0.0  0.4 33854120 67648 ?      Sl   13:43   0:00 /usr/share/code/code --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=27418 --enable-crash-reporter=9767cb2f-1850-4c17-a233-36dcebbfbcc6,no_channel --user-data-dir=/home/andrey/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,4124435708670414126,11996236723258306434,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+andrey     27473  5.7  1.4 1191286452 230856 ?   Sl   13:43   1:00 /usr/share/code/code --type=renderer --crashpad-handler-pid=27418 --enable-crash-reporter=9767cb2f-1850-4c17-a233-36dcebbfbcc6,no_channel --user-data-dir=/home/andrey/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --app-path=/usr/share/code/resources/app --enable-sandbox --enable-blink-features=HighlightAPI --disable-blink-features=FontMatchingCTMigration, --lang=en-US --num-raster-threads=4 --enable-main-frame-before-activation --renderer-client-id=4 --time-ticks-at-unix-epoch=-1729314401876075 --launch-time-ticks=20205131223 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,4124435708670414126,11996236723258306434,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version --vscode-window-config=vscode:879edada-fffd-4698-acb7-ae46e6bb4c93
+andrey     27507  0.7  0.6 1189070296 103960 ?   Sl   13:43   0:07 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=27418 --enable-crash-reporter=9767cb2f-1850-4c17-a233-36dcebbfbcc6,no_channel --user-data-dir=/home/andrey/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,4124435708670414126,11996236723258306434,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+andrey     27528  0.8  0.8 1189053288 131628 ?   Sl   13:43   0:09 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=27418 --enable-crash-reporter=9767cb2f-1850-4c17-a233-36dcebbfbcc6,no_channel --user-data-dir=/home/andrey/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,4124435708670414126,11996236723258306434,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+andrey     28413  0.5  0.8 2507748 139404 ?      Sl   13:45   0:05 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34493 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {eafca769-8874-47c2-a438-1052e426d9ca} 2723 true 77 tab
+andrey     28541  0.0  0.4 2400784 75516 ?       Sl   13:46   0:00 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34493 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {83f5dcde-4e9e-4385-aa81-bb5bdfe81d67} 2723 true 78 tab
+andrey     28713  0.0  0.4 2400800 75124 ?       Sl   13:50   0:00 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34493 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {67d6340b-4756-49d1-a5c7-17c9bac6dd49} 2723 true 79 tab
+andrey     28746  0.2  0.5 809676 83028 ?        Sl   13:50   0:01 /usr/bin/nautilus --gapplication-service
+andrey     28806  0.2  0.5 1189070232 94912 ?    Sl   13:51   0:01 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --crashpad-handler-pid=27418 --enable-crash-reporter=9767cb2f-1850-4c17-a233-36dcebbfbcc6,no_channel --user-data-dir=/home/andrey/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,4124435708670414126,11996236723258306434,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+andrey     28817  0.8  0.8 1189055052 134732 ?   Sl   13:51   0:05 /usr/share/code/code --type=utility --utility-sub-type=node.mojom.NodeService --lang=en-US --service-sandbox-type=none --dns-result-order=ipv4first --inspect-port=0 --crashpad-handler-pid=27418 --enable-crash-reporter=9767cb2f-1850-4c17-a233-36dcebbfbcc6,no_channel --user-data-dir=/home/andrey/.config/Code --standard-schemes=vscode-webview,vscode-file --enable-sandbox --secure-schemes=vscode-webview,vscode-file --cors-schemes=vscode-webview,vscode-file --fetch-schemes=vscode-webview,vscode-file --service-worker-schemes=vscode-webview --code-cache-schemes=vscode-webview,vscode-file --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,4124435708670414126,11996236723258306434,262144 --enable-features=kWebSQLAccess --disable-features=CalculateNativeWinOcclusion,SpareRendererForSitePerProcess --variations-seed-version
+andrey     28839  0.0  0.0  11572  5504 pts/0    Ss+  13:51   0:00 /usr/bin/bash --init-file /usr/share/code/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+andrey     28846  0.0  0.0  11752  5760 pts/1    Ss   13:51   0:00 /usr/bin/bash --init-file /usr/share/code/resources/app/out/vs/workbench/contrib/terminal/common/scripts/shellIntegration-bash.sh
+root       28971  0.0  0.0      0     0 ?        I    13:51   0:00 [kworker/2:2]
+root       28988  0.0  0.0      0     0 ?        I    13:51   0:00 [kworker/3:2-events]
+root       28989  0.0  0.0      0     0 ?        I    13:51   0:00 [kworker/5:1]
+root       29144  0.0  0.0      0     0 ?        I    13:54   0:00 [kworker/7:2-cgroup_destroy]
+andrey     29156  0.0  0.4 2400780 75264 ?       Sl   13:54   0:00 /snap/firefox/5014/usr/lib/firefox/firefox -contentproc -isForBrowser -prefsLen 34493 -prefMapSize 255944 -jsInitLen 234840 -parentBuildID 20240924195713 -greomni /snap/firefox/5014/usr/lib/firefox/omni.ja -appomni /snap/firefox/5014/usr/lib/firefox/browser/omni.ja -appDir /snap/firefox/5014/usr/lib/firefox/browser {081d848d-20dd-4d51-903d-0e6cccb056a6} 2723 true 80 tab
+root       29181  0.0  0.0      0     0 ?        I    13:54   0:00 [kworker/6:1-i915-unordered]
+root       29474  0.0  0.0      0     0 ?        I    13:59   0:00 [kworker/1:1]
+andrey     29745  0.0  0.0  12712  3328 pts/1    R+   14:00   0:00 ps uax
