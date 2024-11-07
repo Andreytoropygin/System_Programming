@@ -19,6 +19,10 @@ section '.text' executable
       dec cl
       cmp cl, -1
       jne .iter
+    mov [place], 0xA
+    mov rsi, place
+    mov dl, 1
+    syscall
     call exit
 
 print_symb:
