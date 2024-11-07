@@ -83,6 +83,7 @@ _start:
         jmp @f
         .mag:
         mov rax, [palette]
+        and rax, 0xff
         or rax, 0x200
         @@:
         mov [palette], rax
