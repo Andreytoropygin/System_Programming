@@ -44,14 +44,14 @@ _start:
 ;    mov al, [array+rcx]
 ;    mov rsi, buffer
 ;    call number_str
-;    call print_str
+;   call print_str
 ;    call new_line
 ;    inc rcx
 ;loop .print
 
     mov rax, 56                 ; first child
     mov rdi, THREAD_FLAGS
-    mov rsi, 4096
+    mov rsi, 4095
     add rsi, stack1
     syscall
 
@@ -68,7 +68,7 @@ _start:
 
     mov rax, 56                 ; second child
     mov rdi, THREAD_FLAGS
-    mov rsi, 4096
+    mov rsi, 4095
     add rsi, stack1
     syscall
 
@@ -85,7 +85,7 @@ _start:
 
     mov rax, 56                 ; third child
     mov rdi, THREAD_FLAGS
-    mov rsi, 4096
+    mov rsi, 4095
     add rsi, stack1
     syscall
 
@@ -102,7 +102,7 @@ _start:
 
     mov rax, 56                 ; fourth child
     mov rdi, THREAD_FLAGS
-    mov rsi, 4096
+    mov rsi, 4095
     add rsi, stack1
     syscall
 

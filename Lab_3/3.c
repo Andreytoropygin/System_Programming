@@ -7,10 +7,7 @@ int main (int argc, char* argv[]){
     int c = strtol(argv[3], NULL, 10);
 
     // (c+b-b+a)/b-a
-    int result = 0;
-    result += c + b - b + a;
-    result /= b;
-    result -= a;
+    int result = (c + b - b + a)/b - a;
     printf("%d\n", result);
     return 0; 
 }

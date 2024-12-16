@@ -101,7 +101,7 @@ _start:
         call addch
         call refresh
 
-        mov rdi, 1
+        mov rdi, 0
         call timeout
         call getch
         cmp rax, 'x'
@@ -111,12 +111,12 @@ _start:
         @@:
         cmp rax, 'r'
         jne @f
-        cmp [delay], 2000
+        cmp [delay], 200
         je .fast1
-        mov [delay], 2000
+        mov [delay], 200
         jmp @f
         .fast1:
-        mov [delay], 100
+        mov [delay], 0
 
         @@:
         pop r9
@@ -144,7 +144,7 @@ _start:
         call addch
         call refresh
 
-        mov rdi, 1
+        mov rdi, 0
         call timeout
         call getch
         cmp rax, 'x'
@@ -154,12 +154,12 @@ _start:
         @@:
         cmp rax, 'r'
         jne @f
-        cmp [delay], 2000
+        cmp [delay], 200
         je .fast2
-        mov [delay], 2000
+        mov [delay], 200
         jmp @f
         .fast2:
-        mov [delay], 100
+        mov [delay], 0
         
         @@:
         pop r9
